@@ -1,1 +1,1 @@
-# Pr-diction-du-prix-des-action-avec-LSTM
+# Prédiction du prix des action avec LSTM
